@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netstandard2.0\Aliyun.Acs.Core.deps.json" />
+    <Content Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netstandard2.0\Aliyun.Acs.Core.dll" />
+    <None Include="bin\Debug\netstandard2.0\Aliyun.Acs.Core.pdb" />
+    <None Include="obj\Aliyun.Acs.Core.csproj.nuget.cache" />
+    <None Include="obj\Aliyun.Acs.Core.csproj.nuget.g.props" />
+    <None Include="obj\Aliyun.Acs.Core.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.assets.cache" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.dll" />
+    <None Include="obj\Debug\netstandard2.0\Aliyun.Acs.Core.pdb" />
+  </ItemGroup>
+
+</Project>
